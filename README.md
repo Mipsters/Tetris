@@ -1,3 +1,3 @@
 # Tetris
 
-a simple roject to learn about kotlin, javafx (tornadofx) and game programming
+a simple project to learn about kotlin, javafx (tornadofx) and game programming
